@@ -3,8 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Dataset](https://img.shields.io/badge/Dataset-YFinance-yellow)
+![Dataset](https://img.shields.io/badge/Dataset-YFinance-purple)
 ![Type](https://img.shields.io/badge/Type-Time--Series-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Project Overview
 
