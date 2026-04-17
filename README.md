@@ -1,5 +1,11 @@
 # 📈 Stock Price Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Dataset-YFinance-yellow)
+![Type](https://img.shields.io/badge/Type-Time--Series-red)
+
 ## 📌 Project Overview
 
 This project focuses on predicting short-term stock prices using historical market data of Tesla (TSLA). It applies machine learning techniques along with feature engineering and time-series aware validation to model stock behavior.
